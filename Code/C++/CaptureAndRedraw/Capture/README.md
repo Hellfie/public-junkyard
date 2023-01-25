@@ -1,0 +1,1 @@
+capture turns 1-bit black-and-white image.bmp file into capture.txt file with black pixels X Y coordinates

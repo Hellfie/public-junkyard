@@ -1,0 +1,3 @@
+it's obvious but i think i should let you know anyway: this program is a violation of multiple license agreements and will likely trigger most anticheats, antiviruses, bot detectors and alike. user discretion is adviced
+
+arist attempts to draw image contained in capture.txt. speed takes value in NOPs to pause between each pixel, skipping will only draw every N+1th put pixel, scale will increase image by N times, pressing enter will input default values, pressing B chooses top left corner and starts drawing
